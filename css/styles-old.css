@@ -1,4 +1,4 @@
-/* body {
+body {
   font-family: "Roboto", sans-serif;
   background-color: #fff;
   color: #434455;
@@ -41,7 +41,7 @@ p {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
-} */
+}
 
 /* ...........header-style............ */
 
